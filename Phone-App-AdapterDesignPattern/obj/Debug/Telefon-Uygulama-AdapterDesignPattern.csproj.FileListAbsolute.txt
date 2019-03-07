@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.exe.config
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.exe
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.pdb
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\obj\Debug\Telefon-Uygulama-AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\obj\Debug\Telefon-Uygulama-AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\obj\Debug\Phone-App-AdapterDesignPattern.exe
+C:\Users\Furkan\source\repos\Phone-App-AdapterDesignPattern\Phone-App-AdapterDesignPattern\obj\Debug\Phone-App-AdapterDesignPattern.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\bin\Debug\Phone-App-AdapterDesignPattern.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\obj\Debug\Telefon-Uygulama-AdapterDesignPattern.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\obj\Debug\Telefon-Uygulama-AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\obj\Debug\Phone-App-AdapterDesignPattern.exe
+C:\Users\Furkan\Desktop\Yeni klasör\Phone-App-AdapterDesignPattern\obj\Debug\Phone-App-AdapterDesignPattern.pdb
